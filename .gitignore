@@ -1,0 +1,14 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large intermediate files the notebook recreates every time it runs
+outputs/ipl_batting_clean.csv
+outputs/ipl_batting_with_teams.csv

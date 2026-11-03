@@ -1,0 +1,360 @@
+match_id,season,match_date,stage,batsmen,R,B,fours,sixes,SR,dismissal_mode,z_resid,outlier_reasons
+235,2013,2013-04-23,League,CH Gayle,175,66,13,17,265.15,not out,10.74,extreme runs; extreme sixes; extreme fours; far above usual pace
+443,2016,2016-05-14,League,AB de Villiers,129,52,10,12,248.07,not out,7.37,extreme runs; extreme sixes; far above usual pace
+699,2008,2008-04-18,League,BB McCullum,158,73,10,13,216.43,not out,7.22,extreme runs; extreme sixes; far above usual pace
+339,2014,2014-05-30,Qualifier,SK Raina,87,25,12,6,348.0,run out,6.96,extreme sixes; extreme strike rate; far above usual pace
+385,2015,2015-05-10,League,AB de Villiers,133,59,19,4,225.42,not out,6.59,extreme runs; extreme fours; far above usual pace
+640,2010,2010-03-13,League,YK Pathan,100,37,9,8,270.27,run out,6.41,extreme sixes; far above usual pace
+670,2010,2010-04-03,League,M Vijay,127,56,8,11,226.78,caught,6.37,extreme runs; extreme sixes; far above usual pace
+255,2013,2013-05-06,League,DA Miller,101,38,8,7,265.78,not out,6.35,extreme sixes; far above usual pace
+734,2008,2008-05-14,League,ST Jayasuriya,114,48,9,11,237.5,not out,6.17,extreme runs; extreme sixes; far above usual pace
+625,2019,2019-04-28,League,HH Pandya,91,34,6,9,267.64,caught,5.8,extreme sixes; far above usual pace
+712,2008,2008-04-27,League,AC Gilchrist,109,47,9,10,231.91,not out,5.71,extreme runs; extreme sixes; far above usual pace
+495,2017,2017-04-30,League,DA Warner,126,59,10,8,213.55,caught,5.68,extreme runs; extreme sixes; far above usual pace
+449,2016,2016-05-18,League,V Kohli,113,50,12,8,226.0,caught,5.67,extreme runs; extreme sixes; far above usual pace
+707,2008,2008-04-24,League,A Symonds,117,53,11,7,220.75,not out,5.63,extreme runs; extreme sixes; far above usual pace
+334,2014,2014-05-24,League,YK Pathan,72,22,5,7,327.27,caught,5.57,extreme sixes; extreme strike rate; far above usual pace
+581,2019,2019-03-24,League,RR Pant,78,27,7,7,288.88,not out,5.41,extreme sixes; far above usual pace
+195,2012,2012-05-17,League,CH Gayle,128,62,7,13,206.45,not out,5.38,extreme runs; extreme sixes; far above usual pace
+339,2014,2014-05-30,Qualifier,V Sehwag,122,58,12,8,210.34,caught,5.34,extreme runs; extreme sixes; far above usual pace
+102,2011,2011-05-05,League,V Sehwag,119,56,13,6,212.5,caught,5.33,extreme runs; extreme sixes; extreme fours; far above usual pace
+602,2019,2019-04-10,League,KA Pollard,83,31,3,10,267.74,caught,5.32,extreme sixes; far above usual pace
+700,2008,2008-04-19,League,MEK Hussey,116,54,8,9,214.81,not out,5.31,extreme runs; extreme sixes; far above usual pace
+560,2018,2018-05-10,League,RR Pant,128,63,15,7,203.17,not out,5.19,extreme runs; extreme sixes; extreme fours; far above usual pace
+103,2011,2011-05-06,League,CH Gayle,107,49,10,9,218.36,caught,5.07,extreme runs; extreme sixes; far above usual pace
+523,2018,2018-04-10,League,AD Russell,88,36,1,11,244.44,not out,5.03,extreme sixes; far above usual pace
+422,2016,2016-04-27,League,CH Morris,82,32,4,8,256.25,not out,5.0,extreme sixes; far above usual pace
+340,2014,2014-06-01,Final,WP Saha,115,55,10,8,209.09,not out,4.99,extreme runs; extreme sixes; far above usual pace
+544,2018,2018-04-27,League,SS Iyer,93,40,3,10,232.5,not out,4.93,extreme sixes; far above usual pace
+309,2014,2014-05-07,League,GJ Maxwell,90,38,6,8,236.84,caught,4.92,extreme sixes; far above usual pace
+500,2017,2017-05-04,League,RR Pant,97,43,6,9,225.58,caught,4.89,extreme sixes; far above usual pace
+578,2018,2018-05-27,Final,SR Watson,117,57,11,8,205.26,not out,4.88,extreme runs; extreme sixes; far above usual pace
+379,2015,2015-05-06,League,CH Gayle,117,57,7,12,205.26,caught,4.88,extreme runs; extreme sixes; far above usual pace
+705,2008,2008-04-22,League,V Sehwag,94,41,10,6,229.26,not out,4.88,extreme sixes; far above usual pace
+410,2016,2016-04-17,League,Q de Kock,108,51,15,3,211.76,caught,4.83,extreme runs; extreme fours; far above usual pace
+55,2009,2009-05-22,Semi-final,AC Gilchrist,85,35,10,5,242.85,caught,4.83,extreme sixes; far above usual pace
+462,2017,2017-04-07,League,CA Lynn,93,41,6,8,226.82,not out,4.75,extreme sixes; far above usual pace
+537,2018,2018-04-21,League,AB de Villiers,90,39,10,5,230.76,not out,4.73,extreme sixes; far above usual pace
+39,2009,2009-05-12,League,LRPL Taylor,81,33,7,5,245.45,not out,4.68,extreme sixes; far above usual pace
+589,2019,2019-03-31,League,JM Bairstow,114,56,12,7,203.57,caught,4.68,extreme runs; extreme sixes; far above usual pace
+289,2014,2014-04-22,League,GJ Maxwell,95,43,5,9,220.93,caught,4.63,extreme sixes; far above usual pace
+283,2014,2014-04-18,League,GJ Maxwell,95,43,15,2,220.93,bowled,4.63,extreme fours; far above usual pace
+446,2016,2016-05-15,League,KH Pandya,86,37,7,6,232.43,bowled,4.58,extreme sixes; far above usual pace
+559,2018,2018-05-09,League,Ishan Kishan,62,21,5,6,295.23,caught,4.45,extreme sixes; far above usual pace
+336,2014,2014-05-25,League,CJ Anderson,95,44,9,6,215.9,not out,4.45,extreme sixes; far above usual pace
+183,2012,2012-05-10,League,DA Warner,109,54,10,7,201.85,not out,4.4,extreme runs; extreme sixes; far above usual pace
+649,2010,2010-03-19,League,ML Hayden,93,43,9,7,216.27,caught,4.37,extreme sixes; far above usual pace
+304,2014,2014-05-04,League,AB de Villiers,89,41,6,8,217.07,not out,4.23,extreme sixes; far above usual pace
+443,2016,2016-05-14,League,V Kohli,109,55,5,8,198.18,caught,4.21,extreme runs; extreme sixes; far above usual pace
+203,2012,2012-05-25,Qualifier,M Vijay,113,58,15,4,194.82,run out,4.17,extreme runs; extreme fours; far above usual pace
+550,2018,2018-05-02,League,JC Buttler,67,26,4,7,257.69,stumped,4.17,extreme sixes; far above usual pace
+504,2017,2017-05-07,League,SP Narine,54,17,6,4,317.64,caught,4.16,extreme strike rate; far above usual pace
+347,2015,2015-04-12,League,Harbhajan Singh,64,24,5,6,266.66,caught,4.15,extreme sixes; far above usual pace
+66,2011,2011-04-13,League,PC Valthaty,120,63,19,2,190.47,not out,4.15,extreme runs; extreme fours; far above usual pace
+595,2019,2019-04-05,League,AD Russell,48,13,1,7,369.23,not out,4.13,extreme sixes; extreme strike rate; far above usual pace
+613,2019,2019-04-19,League,AD Russell,65,25,2,9,260.0,run out,4.1,extreme sixes; far above usual pace
+82,2011,2011-04-23,League,SE Marsh,95,46,9,6,206.52,caught,4.07,extreme sixes; far above usual pace
+315,2014,2014-05-11,League,Yuvraj Singh,83,38,7,7,218.42,lbw,4.01,extreme sixes; far above usual pace
+520,2018,2018-04-08,League,KL Rahul,51,16,6,4,318.75,caught,3.96,extreme strike rate; far above usual pace
+277,2013,2013-05-21,Qualifier,DR Smith,68,28,6,5,242.85,caught,3.93,extreme sixes; far above usual pace
+672,2010,2010-04-04,League,CH Gayle,88,42,6,8,209.52,caught,3.91,extreme sixes; far above usual pace
+8,2009,2009-04-23,League,AB de Villiers,105,54,5,6,194.44,not out,3.88,extreme runs; extreme sixes; far above usual pace
+529,2018,2018-04-15,League,SV Samson,92,45,2,10,204.44,not out,3.87,extreme sixes; far above usual pace
+550,2018,2018-05-02,League,RR Pant,69,29,7,5,237.93,caught,3.87,extreme sixes; far above usual pace
+319,2014,2014-05-14,League,NV Ojha,79,36,4,7,219.44,not out,3.86,extreme sixes; far above usual pace
+605,2019,2019-04-13,League,JC Buttler,89,43,8,7,206.97,caught,3.85,extreme sixes; far above usual pace
+266,2013,2013-05-13,League,KA Pollard,66,27,2,8,244.44,not out,3.85,extreme sixes; far above usual pace
+449,2016,2016-05-18,League,CH Gayle,73,32,4,8,228.12,caught,3.83,extreme sixes; far above usual pace
+119,2011,2011-05-17,League,AC Gilchrist,106,55,8,9,192.72,caught,3.82,extreme runs; extreme sixes; far above usual pace
+82,2011,2011-04-23,League,V Sehwag,77,35,8,4,220.0,caught,3.79,far above usual pace
+423,2016,2016-04-28,League,KA Pollard,51,17,2,6,300.0,not out,3.77,extreme sixes; far above usual pace
+318,2014,2014-05-13,League,Yuvraj Singh,68,29,1,9,234.48,not out,3.74,extreme sixes; far above usual pace
+685,2010,2010-04-13,League,KA Pollard,45,13,2,5,346.15,not out,3.74,extreme sixes; extreme strike rate; far above usual pace
+618,2019,2019-04-22,League,RR Pant,78,36,6,4,216.66,not out,3.73,far above usual pace
+644,2010,2010-03-15,League,V Sehwag,75,34,8,5,220.58,caught,3.72,extreme sixes; far above usual pace
+753,2008,2008-05-28,League,Yuvraj Singh,49,16,2,6,306.25,run out,3.7,extreme sixes; far above usual pace
+160,2012,2012-04-23,League,AB de Villiers,59,23,3,5,256.52,not out,3.69,extreme sixes; far above usual pace
+538,2018,2018-04-22,League,AT Rayudu,79,37,9,4,213.51,run out,3.67,far above usual pace
+387,2015,2015-05-11,League,DA Miller,89,44,2,9,202.27,not out,3.67,extreme sixes; far above usual pace
+613,2019,2019-04-19,League,MM Ali,66,28,5,6,235.71,caught,3.67,extreme sixes; far above usual pace
+213,2013,2013-04-09,League,V Kohli,93,47,11,4,197.87,not out,3.63,far above usual pace
+391,2015,2015-05-15,League,MC Henriques,57,22,5,4,259.09,caught,3.62,far above usual pace
+330,2014,2014-05-22,League,DA Warner,90,45,12,3,200.0,bowled,3.61,far above usual pace
+672,2010,2010-04-04,League,DPMD Jayawardene,110,59,14,3,186.44,not out,3.6,extreme runs; extreme fours; far above usual pace
+356,2015,2015-04-19,League,AB de Villiers,41,11,5,3,372.72,caught,3.59,extreme strike rate; far above usual pace
+621,2019,2019-04-25,League,KD Karthik,97,50,7,9,194.0,not out,3.59,extreme sixes; far above usual pace
+468,2017,2017-04-11,League,CH Morris,38,9,4,3,422.22,not out,3.57,far above usual pace
+542,2018,2018-04-25,League,AB de Villiers,68,30,2,8,226.66,caught,3.55,extreme sixes; far above usual pace
+519,2018,2018-04-07,League,DJ Bravo,68,30,3,7,226.66,caught,3.55,extreme sixes; far above usual pace
+434,2016,2016-05-07,League,V Kohli,108,58,8,7,186.2,not out,3.52,extreme runs; extreme sixes; far above usual pace
+287,2014,2014-04-20,League,GJ Maxwell,89,45,8,6,197.77,caught,3.48,extreme sixes; far above usual pace
+562,2018,2018-05-12,League,KL Rahul,66,29,2,7,227.58,bowled,3.48,extreme sixes; far above usual pace
+311,2014,2014-05-09,League,DA Miller,66,29,8,3,227.58,caught,3.48,far above usual pace
+258,2013,2013-05-08,League,SK Raina,99,52,11,3,190.38,not out,3.47,far above usual pace
+660,2010,2010-03-26,League,YK Pathan,73,34,2,8,214.7,not out,3.45,extreme sixes; far above usual pace
+535,2018,2018-04-20,League,SR Watson,106,57,9,6,185.96,caught,3.45,extreme runs; extreme sixes; far above usual pace
+670,2010,2010-04-03,League,SR Watson,60,25,5,5,240.0,bowled,3.45,extreme sixes; far above usual pace
+249,2013,2013-05-02,League,SK Raina,100,53,7,6,188.67,not out,3.42,extreme sixes; far above usual pace
+481,2017,2017-04-20,League,JC Buttler,77,37,7,5,208.1,caught,3.41,extreme sixes; far above usual pace
+531,2018,2018-04-16,League,AD Russell,41,12,0,6,341.66,bowled,3.4,extreme sixes; extreme strike rate; far above usual pace
+287,2014,2014-04-20,League,DA Miller,51,19,0,6,268.42,not out,3.4,extreme sixes; far above usual pace
+700,2008,2008-04-19,League,JR Hopes,71,33,10,3,215.15,caught,3.38,far above usual pace
+736,2008,2008-05-16,League,ST Jayasuriya,48,17,6,3,282.35,not out,3.38,far above usual pace
+584,2019,2019-03-27,League,AD Russell,48,17,3,5,282.35,caught,3.38,extreme sixes; far above usual pace
+424,2016,2016-04-29,League,SPD Smith,101,54,8,5,187.03,bowled,3.36,extreme sixes; far above usual pace
+737,2008,2008-05-17,League,R Dravid,75,36,6,6,208.33,not out,3.34,extreme sixes; far above usual pace
+562,2018,2018-05-12,League,SP Narine,75,36,9,4,208.33,caught,3.34,far above usual pace
+460,2017,2017-04-05,League,Yuvraj Singh,62,27,7,3,229.62,bowled,3.33,far above usual pace
+478,2017,2017-04-17,League,M Vohra,95,50,9,5,190.0,lbw,3.33,extreme sixes; far above usual pace
+489,2017,2017-04-27,League,AJ Finch,72,34,5,6,211.76,caught,3.32,extreme sixes; far above usual pace
+663,2010,2010-03-28,League,Harbhajan Singh,49,18,8,2,272.22,not out,3.32,far above usual pace
+586,2019,2019-03-29,League,SV Samson,102,55,10,4,185.45,not out,3.3,far above usual pace
+80,2011,2011-04-22,League,CH Gayle,102,55,10,7,185.45,not out,3.3,extreme sixes; far above usual pace
+245,2013,2013-04-29,League,RG Sharma,79,39,6,6,202.56,not out,3.3,extreme sixes; far above usual pace
+523,2018,2018-04-10,League,SW Billings,56,23,2,5,243.47,caught,3.3,extreme sixes; far above usual pace
+467,2017,2017-04-10,League,AB de Villiers,89,46,3,9,193.47,not out,3.29,extreme sixes; far above usual pace
+186,2012,2012-05-12,League,RG Sharma,109,60,12,5,181.66,not out,3.28,extreme runs; extreme sixes; far above usual pace
+380,2015,2015-05-07,League,EJG Morgan,63,28,4,5,225.0,caught,3.28,extreme sixes; far above usual pace
+521,2018,2018-04-08,League,SP Narine,50,19,4,5,263.15,bowled,3.27,extreme sixes; far above usual pace
+148,2012,2012-04-15,League,OA Shah,60,26,5,5,230.76,caught,3.26,extreme sixes; far above usual pace
+178,2012,2012-05-06,League,AB de Villiers,47,17,5,3,276.47,not out,3.25,far above usual pace
+625,2019,2019-04-28,League,AD Russell,80,40,6,8,200.0,not out,3.24,extreme sixes; far above usual pace
+479,2017,2017-04-18,League,CH Gayle,77,38,5,7,202.63,lbw,3.23,extreme sixes; far above usual pace
+202,2012,2012-05-23,Eliminator,MS Dhoni,51,20,6,2,255.0,not out,3.21,far above usual pace
+340,2014,2014-06-01,Final,MK Pandey,94,50,7,6,188.0,caught,3.2,extreme sixes; far above usual pace
+742,2008,2008-05-20,League,YK Pathan,48,18,5,3,266.66,not out,3.19,far above usual pace
+403,2016,2016-04-12,League,DA Warner,58,25,4,5,232.0,caught,3.19,extreme sixes; far above usual pace
+246,2013,2013-04-30,League,MS Dhoni,45,16,4,3,281.25,not out,3.18,far above usual pace
+666,2010,2010-03-31,League,M Vijay,78,39,4,6,200.0,caught,3.17,extreme sixes; far above usual pace
+686,2010,2010-04-13,League,SK Raina,78,39,11,3,200.0,not out,3.17,far above usual pace
+713,2008,2008-04-28,League,MS Dhoni,65,30,9,3,216.66,caught,3.16,far above usual pace
+240,2013,2013-04-27,League,SR Watson,98,53,13,4,184.9,not out,3.16,extreme fours; far above usual pace
+588,2019,2019-03-30,League,AD Russell,62,28,4,6,221.42,caught,3.15,extreme sixes; far above usual pace
+580,2019,2019-03-24,League,AD Russell,49,19,4,4,257.89,not out,3.14,far above usual pace
+277,2013,2013-05-21,Qualifier,SK Raina,82,42,5,5,195.23,not out,3.13,extreme sixes; far above usual pace
+403,2016,2016-04-12,League,AB de Villiers,82,42,7,6,195.23,caught,3.13,extreme sixes; far above usual pace
+113,2011,2011-05-13,League,KD Karthik,69,33,7,5,209.09,caught,3.12,extreme sixes; far above usual pace
+122,2011,2011-05-20,League,SR Watson,89,47,9,6,189.36,not out,3.11,extreme sixes; far above usual pace
+129,2011,2011-05-27,Qualifier,CH Gayle,89,47,9,5,189.36,caught,3.11,extreme sixes; far above usual pace
+459,2016,2016-05-29,Final,CH Gayle,76,38,4,8,200.0,caught,3.1,extreme sixes; far above usual pace
+309,2014,2014-05-07,League,GJ Bailey,40,13,6,2,307.69,not out,3.09,far above usual pace
+676,2010,2010-04-07,League,MJ Lumb,83,43,16,2,193.02,caught,3.07,extreme fours; far above usual pace
+536,2018,2018-04-21,League,KL Rahul,60,27,9,2,222.22,caught,3.07,far above usual pace
+73,2011,2011-04-17,League,JD Ryder,60,27,5,5,222.22,caught,3.07,extreme sixes; far above usual pace
+265,2013,2013-05-12,League,SR Watson,70,34,6,6,205.88,bowled,3.06,extreme sixes; far above usual pace
+349,2015,2015-04-14,League,KA Pollard,70,34,7,5,205.88,caught,3.06,extreme sixes; far above usual pace
+542,2018,2018-04-25,League,MS Dhoni,70,34,1,7,205.88,not out,3.06,extreme sixes; far above usual pace
+233,2013,2013-04-21,League,DA Miller,80,41,5,5,195.12,not out,3.06,extreme sixes; far above usual pace
+106,2011,2011-05-08,League,CH Gayle,44,16,3,5,275.0,bowled,3.05,extreme sixes; far above usual pace
+589,2019,2019-03-31,League,DA Warner,100,55,5,5,181.81,not out,3.04,extreme sixes; far above usual pace
+190,2012,2012-05-14,League,MA Agarwal,64,30,6,4,213.33,not out,3.03,far above usual pace
+352,2015,2015-04-17,League,KA Pollard,64,30,4,5,213.33,caught,3.03,extreme sixes; far above usual pace
+383,2015,2015-05-09,League,AD Russell,51,21,5,4,242.85,caught,3.02,far above usual pace
+645,2010,2010-03-16,League,RV Uthappa,51,21,4,4,242.85,caught,3.02,far above usual pace
+707,2008,2008-04-24,League,YK Pathan,61,28,4,6,217.85,caught,3.02,extreme sixes; far above usual pace
+373,2015,2015-05-02,League,DA Warner,61,28,11,1,217.85,caught,3.02,far above usual pace
+114,2011,2011-05-14,League,CH Gayle,38,12,6,2,316.66,caught,3.01,extreme strike rate; far above usual pace
+569,2018,2018-05-17,League,KS Williamson,81,42,7,5,192.85,caught,3.0,extreme sixes; far above usual pace
+150,2012,2012-04-17,League,JP Duminy,58,26,3,5,223.07,not out,3.0,extreme sixes
+391,2015,2015-05-15,League,CH Gayle,35,10,4,3,350.0,caught,3.0,extreme strike rate
+403,2016,2016-04-12,League,SN Khan,35,10,5,2,350.0,not out,3.0,extreme strike rate
+548,2018,2018-04-30,League,SR Watson,78,40,4,7,195.0,caught,2.98,extreme sixes
+130,2011,2011-05-28,Final,M Vijay,95,52,4,6,182.69,caught,2.95,extreme sixes
+426,2016,2016-04-30,League,DA Warner,92,50,9,5,184.0,caught,2.94,extreme sixes
+204,2012,2012-05-27,Final,MS Bisla,89,48,8,5,185.41,caught,2.92,extreme sixes
+73,2011,2011-04-17,League,Yuvraj Singh,66,32,4,5,206.25,not out,2.92,extreme sixes
+619,2019,2019-04-23,League,SR Watson,96,53,9,6,181.13,caught,2.9,extreme sixes
+166,2012,2012-04-28,League,G Gambhir,93,51,9,5,182.35,caught,2.88,extreme sixes
+577,2018,2018-05-25,Qualifier,Rashid Khan,34,10,2,4,340.0,not out,2.87,extreme strike rate
+233,2013,2013-04-21,League,LJ Wright,34,10,6,1,340.0,caught,2.87,extreme strike rate
+344,2015,2015-04-11,League,BB McCullum,100,56,7,9,178.57,not out,2.86,extreme sixes
+488,2017,2017-04-26,League,RV Uthappa,87,47,7,6,185.1,caught,2.85,extreme sixes
+548,2018,2018-04-30,League,MS Dhoni,51,22,2,5,231.81,not out,2.84,extreme sixes
+532,2018,2018-04-17,League,RG Sharma,94,52,10,5,180.76,caught,2.82,extreme sixes
+633,2019,2019-05-05,League,KL Rahul,71,36,7,5,197.22,caught,2.82,extreme sixes
+393,2015,2015-05-16,League,SR Watson,104,59,9,5,176.27,not out,2.82,extreme runs; extreme sixes
+20,2009,2009-04-30,League,SK Raina,98,55,10,5,178.18,caught,2.78,extreme sixes
+613,2019,2019-04-19,League,N Rana,85,46,9,5,184.78,not out,2.77,extreme sixes
+16,2009,2009-04-28,League,YK Pathan,62,30,3,6,206.66,not out,2.77,extreme sixes
+563,2018,2018-05-12,League,AB de Villiers,72,37,4,6,194.59,not out,2.76,extreme sixes
+636,2019,2019-05-08,Eliminator,RR Pant,49,21,2,5,233.33,caught,2.76,extreme sixes
+620,2019,2019-04-24,League,AB de Villiers,82,44,3,7,186.36,not out,2.76,extreme sixes
+204,2012,2012-05-27,Final,SK Raina,73,38,3,5,192.1,caught,2.71,extreme sixes
+650,2010,2010-03-19,League,IK Pathan,60,29,3,5,206.89,caught,2.7,extreme sixes
+499,2017,2017-05-03,League,RA Tripathi,93,52,9,7,178.84,caught,2.69,extreme sixes
+81,2011,2011-04-22,League,RG Sharma,87,48,8,5,181.25,caught,2.66,extreme sixes
+452,2016,2016-05-21,League,MS Dhoni,64,32,4,5,200.0,not out,2.66,extreme sixes
+565,2018,2018-05-13,League,JC Buttler,94,53,9,5,177.35,not out,2.64,extreme sixes
+505,2017,2017-05-07,League,HM Amla,104,60,8,5,173.33,lbw,2.63,extreme runs; extreme sixes
+481,2017,2017-04-20,League,HM Amla,104,60,8,6,173.33,not out,2.63,extreme runs; extreme sixes
+143,2012,2012-04-12,League,CH Gayle,68,35,2,6,194.28,caught,2.62,extreme sixes
+341,2015,2015-04-08,League,SA Yadav,46,20,1,5,230.0,not out,2.56,extreme sixes
+136,2012,2012-04-07,League,DJ Bravo,43,18,0,5,238.88,not out,2.54,extreme sixes
+214,2013,2013-04-09,League,KD Karthik,86,48,14,2,179.16,caught,2.53,extreme fours
+509,2017,2017-05-11,League,GJ Maxwell,47,21,2,5,223.8,bowled,2.5,extreme sixes
+148,2012,2012-04-15,League,AM Rahane,103,60,12,5,171.66,not out,2.5,extreme sixes
+574,2018,2018-05-20,League,KK Nair,54,26,3,5,207.69,caught,2.48,extreme sixes
+41,2009,2009-05-13,League,AC Gilchrist,64,33,5,5,193.93,bowled,2.47,extreme sixes
+396,2015,2015-05-19,Qualifier,KA Pollard,41,17,1,5,241.17,caught,2.47,extreme sixes
+731,2008,2008-05-11,League,SR Watson,74,40,5,5,185.0,run out,2.46,extreme sixes
+500,2017,2017-05-04,League,SV Samson,61,31,0,7,196.77,caught,2.46,extreme sixes
+500,2017,2017-05-04,League,KD Karthik,65,34,5,5,191.17,caught,2.41,extreme sixes
+569,2018,2018-05-17,League,MM Ali,65,34,2,6,191.17,caught,2.41,extreme sixes
+537,2018,2018-04-21,League,RR Pant,85,48,6,7,177.08,caught,2.4,extreme sixes
+360,2015,2015-04-22,League,SK Raina,62,32,4,6,193.75,caught,2.4,extreme sixes
+219,2013,2013-04-13,League,RG Sharma,62,32,3,5,193.75,not out,2.4,extreme sixes
+27,2009,2009-05-04,League,DR Smith,49,23,2,5,213.04,lbw,2.39,extreme sixes
+753,2008,2008-05-28,League,SE Marsh,115,69,11,7,166.66,caught,2.38,extreme runs; extreme sixes
+464,2017,2017-04-08,League,KM Jadhav,69,37,5,5,186.48,caught,2.37,extreme sixes
+615,2019,2019-04-20,League,CH Gayle,69,37,6,5,186.48,caught,2.37,extreme sixes
+530,2018,2018-04-15,League,MS Dhoni,79,44,6,5,179.54,not out,2.37,extreme sixes
+480,2017,2017-04-19,League,KS Williamson,89,51,6,5,174.5,caught,2.36,extreme sixes
+142,2012,2012-04-11,League,OA Shah,76,42,5,5,180.95,bowled,2.35,extreme sixes
+311,2014,2014-05-09,League,AB de Villiers,53,26,1,5,203.84,caught,2.35,extreme sixes
+345,2015,2015-04-11,League,CH Gayle,96,56,7,7,171.42,run out,2.34,extreme sixes
+445,2016,2016-05-15,League,HM Amla,96,56,14,2,171.42,caught,2.34,extreme fours
+509,2017,2017-05-11,League,KA Pollard,50,24,1,5,208.33,not out,2.33,extreme sixes
+617,2019,2019-04-21,League,MS Dhoni,84,48,5,7,175.0,not out,2.27,extreme sixes
+670,2010,2010-04-03,League,NV Ojha,94,55,8,6,170.9,not out,2.26,extreme sixes
+527,2018,2018-04-14,League,JJ Roy,91,53,6,6,171.69,not out,2.25,extreme sixes
+234,2013,2013-04-22,League,MEK Hussey,88,51,13,1,172.54,run out,2.23,extreme fours
+189,2012,2012-05-13,League,DJ Hussey,65,35,4,5,185.71,not out,2.23,extreme sixes
+618,2019,2019-04-22,League,AM Rahane,105,63,11,3,166.66,not out,2.2,extreme runs
+584,2019,2019-03-27,League,N Rana,63,34,2,7,185.29,caught,2.15,extreme sixes
+508,2017,2017-05-10,League,SS Iyer,96,57,15,2,168.42,bowled,2.15,extreme fours
+456,2016,2016-05-24,Qualifier,DR Smith,73,41,5,6,178.04,caught,2.15,extreme sixes
+738,2008,2008-05-17,League,V Sehwag,51,26,2,5,196.15,not out,2.09,extreme sixes
+183,2012,2012-05-10,League,S Dhawan,84,49,9,5,171.42,run out,2.08,extreme sixes
+708,2008,2008-04-25,League,KC Sangakkara,94,56,13,1,167.85,caught,2.08,extreme fours
+534,2018,2018-04-19,League,CH Gayle,104,63,1,11,165.07,not out,2.07,extreme runs; extreme sixes
+466,2017,2017-04-09,League,MK Pandey,81,47,5,5,172.34,not out,2.07,extreme sixes
+656,2010,2010-03-23,League,RV Uthappa,68,38,3,6,178.94,not out,2.06,extreme sixes
+234,2013,2013-04-22,League,SR Watson,101,61,6,6,165.57,caught,2.05,extreme sixes
+216,2013,2013-04-11,League,CH Gayle,85,50,4,9,170.0,not out,2.03,extreme sixes
+481,2017,2017-04-20,League,N Rana,62,34,0,7,182.35,not out,2.02,extreme sixes
+670,2010,2010-04-03,League,JA Morkel,62,34,3,5,182.35,run out,2.02,extreme sixes
+232,2013,2013-04-21,League,V Sehwag,95,57,13,2,166.66,not out,2.02,extreme fours
+123,2011,2011-05-21,League,S Dhawan,95,57,14,1,166.66,not out,2.02,extreme fours
+576,2018,2018-05-23,Eliminator,AD Russell,49,25,3,5,196.0,not out,2.02,extreme sixes
+125,2011,2011-05-22,League,MS Dhoni,70,40,3,6,175.0,not out,1.94,extreme sixes
+497,2017,2017-05-01,League,BA Stokes,103,63,7,6,163.49,not out,1.94,extreme sixes
+92,2011,2011-04-30,League,V Sehwag,80,47,8,5,170.21,caught,1.94,extreme sixes
+185,2012,2012-05-11,League,CH Gayle,57,31,3,6,183.87,caught,1.93,extreme sixes
+616,2019,2019-04-21,League,DA Warner,67,38,3,5,176.31,bowled,1.93,extreme sixes
+328,2014,2014-05-21,League,LMP Simmons,100,61,14,2,163.93,not out,1.92,extreme fours
+278,2013,2013-05-22,Eliminator,BJ Hodge,54,29,2,5,186.2,not out,1.92,extreme sixes
+491,2017,2017-04-28,League,SE Marsh,84,50,14,2,168.0,caught,1.9,extreme fours
+151,2012,2012-04-17,League,CH Gayle,81,48,4,8,168.75,bowled,1.88,extreme sixes
+315,2014,2014-05-11,League,AB de Villiers,58,32,1,5,181.25,caught,1.88,extreme sixes
+163,2012,2012-04-26,League,CL White,78,46,6,5,169.56,caught,1.86,extreme sixes
+468,2017,2017-04-11,League,SV Samson,102,63,8,5,161.9,bowled,1.81,extreme sixes
+456,2016,2016-05-24,Qualifier,AB de Villiers,79,47,5,5,168.08,not out,1.81,extreme sixes
+319,2014,2014-05-14,League,GJ Maxwell,43,22,2,5,195.45,caught,1.8,extreme sixes
+602,2019,2019-04-10,League,CH Gayle,63,36,3,7,175.0,caught,1.78,extreme sixes
+232,2013,2013-04-21,League,RG Sharma,73,43,5,5,169.76,caught,1.77,extreme sixes
+585,2019,2019-03-28,League,AB de Villiers,70,41,4,6,170.73,not out,1.76,extreme sixes
+153,2012,2012-04-19,League,KP Pietersen,103,64,6,9,160.93,not out,1.75,extreme sixes
+521,2018,2018-04-08,League,AB de Villiers,44,23,1,5,191.3,caught,1.74,extreme sixes
+564,2018,2018-05-13,League,AT Rayudu,100,62,7,7,161.29,not out,1.74,extreme sixes
+693,2010,2010-04-18,League,A Symonds,54,30,3,5,180.0,caught,1.73,extreme sixes
+358,2015,2015-04-21,League,DA Miller,54,30,1,5,180.0,caught,1.73,extreme sixes
+538,2018,2018-04-22,League,KS Williamson,84,51,5,5,164.7,caught,1.71,extreme sixes
+730,2008,2008-05-11,League,Y Venugopal Rao,71,42,4,6,169.04,not out,1.7,extreme sixes
+668,2010,2010-04-01,League,SC Ganguly,88,54,9,5,162.96,caught,1.67,extreme sixes
+250,2013,2013-05-02,League,RV Uthappa,75,45,5,5,166.66,caught,1.66,extreme sixes
+282,2014,2014-04-17,League,Yuvraj Singh,52,29,3,5,179.31,not out,1.66,extreme sixes
+645,2010,2010-03-16,League,JH Kallis,89,55,8,5,161.81,not out,1.61,extreme sixes
+749,2008,2008-05-25,League,SC Ganguly,86,53,6,6,162.26,not out,1.6,extreme sixes
+662,2010,2010-03-28,League,NV Ojha,80,49,6,5,163.26,caught,1.56,extreme sixes
+548,2018,2018-04-30,League,V Shankar,54,31,1,5,174.19,not out,1.54,extreme sixes
+54,2009,2009-05-21,League,MK Pandey,114,73,10,4,156.16,not out,1.5,extreme runs
+730,2008,2008-05-11,League,SC Ganguly,91,57,11,5,159.64,caught,1.5,extreme sixes
+300,2014,2014-04-30,League,KA Pollard,78,48,3,6,162.5,bowled,1.49,extreme sixes
+673,2010,2010-04-04,League,PD Collingwood,75,46,3,7,163.04,not out,1.47,extreme sixes
+7,2009,2009-04-22,League,RG Sharma,52,30,1,5,173.33,caught,1.47,extreme sixes
+479,2017,2017-04-18,League,BB McCullum,72,44,2,7,163.63,caught,1.46,extreme sixes
+607,2019,2019-04-14,League,CA Lynn,82,51,7,6,160.78,caught,1.45,extreme sixes
+206,2013,2013-04-04,League,CH Gayle,92,58,11,5,158.62,not out,1.44,extreme sixes
+119,2011,2011-05-17,League,SE Marsh,79,49,7,5,161.22,not out,1.43,extreme sixes
+602,2019,2019-04-10,League,KL Rahul,100,64,6,6,156.25,not out,1.36,extreme sixes
+384,2015,2015-05-09,League,MC Henriques,74,46,1,5,160.86,not out,1.34,extreme sixes
+664,2010,2010-03-29,League,DA Warner,107,69,9,5,155.07,not out,1.34,extreme runs; extreme sixes
+72,2011,2011-04-16,League,PC Valthaty,75,47,8,5,159.57,caught,1.29,extreme sixes
+632,2019,2019-05-04,League,SO Hetmyer,75,47,4,6,159.57,caught,1.29,extreme sixes
+504,2017,2017-05-07,League,TM Head,75,47,3,5,159.57,not out,1.29,extreme sixes
+536,2018,2018-04-21,League,CH Gayle,62,38,5,6,163.15,not out,1.28,extreme sixes
+245,2013,2013-04-29,League,DA Miller,56,34,1,5,164.7,caught,1.24,extreme sixes
+606,2019,2019-04-13,League,CH Gayle,99,64,10,5,154.68,not out,1.23,extreme sixes
+7,2009,2009-04-22,League,AC Gilchrist,71,45,6,5,157.77,caught,1.14,extreme sixes
+387,2015,2015-05-11,League,DA Warner,81,52,6,5,155.76,caught,1.13,extreme sixes
+361,2015,2015-04-23,League,JP Duminy,78,50,3,6,156.0,not out,1.12,extreme sixes
+692,2010,2010-04-18,League,SE Marsh,88,57,8,5,154.38,not out,1.11,extreme sixes
+542,2018,2018-04-25,League,AT Rayudu,82,53,3,8,154.71,run out,1.08,extreme sixes
+620,2019,2019-04-24,League,N Pooran,46,28,1,5,164.28,caught,1.07,extreme sixes
+306,2014,2014-05-05,League,DR Smith,79,51,4,8,154.9,caught,1.06,extreme sixes
+32,2009,2009-05-07,League,ML Hayden,89,58,8,6,153.44,caught,1.05,extreme sixes
+747,2008,2008-05-24,League,ST Jayasuriya,66,42,6,5,157.14,caught,1.05,extreme sixes
+704,2008,2008-04-21,League,SR Watson,76,49,5,5,155.1,not out,1.04,extreme sixes
+532,2018,2018-04-17,League,E Lewis,65,42,6,5,154.76,caught,0.92,extreme sixes
+242,2013,2013-04-28,League,MS Bisla,92,61,14,2,150.81,run out,0.88,extreme fours
+609,2019,2019-04-15,League,MM Ali,50,32,1,5,156.25,caught,0.84,extreme sixes
+689,2010,2010-04-16,League,DPMD Jayawardene,93,62,13,2,150.0,not out,0.83,extreme fours
+407,2016,2016-04-16,League,G Gambhir,90,60,13,1,150.0,not out,0.81,extreme fours
+134,2012,2012-04-06,League,AM Rahane,98,66,16,1,148.48,bowled,0.73,extreme fours
+125,2011,2011-05-22,League,CH Gayle,75,50,4,6,150.0,not out,0.73,extreme sixes
+166,2012,2012-04-28,League,CH Gayle,86,58,7,6,148.27,caught,0.66,extreme sixes
+515,2017,2017-05-16,Qualifier,MS Dhoni,40,26,0,5,153.84,not out,0.66,extreme sixes
+333,2014,2014-05-24,League,V Kohli,73,49,2,5,148.97,bowled,0.65,extreme sixes
+361,2015,2015-04-23,League,SS Iyer,83,56,7,5,148.21,bowled,0.65,extreme sixes
+353,2015,2015-04-18,League,SS Iyer,60,40,3,5,150.0,caught,0.64,extreme sixes
+471,2017,2017-04-14,League,KA Pollard,70,47,3,5,148.93,caught,0.64,extreme sixes
+209,2013,2013-04-06,League,KA Pollard,57,38,4,5,150.0,not out,0.63,extreme sixes
+283,2014,2014-04-18,League,BB McCullum,67,45,4,5,148.88,caught,0.62,extreme sixes
+214,2013,2013-04-09,League,RG Sharma,74,50,4,5,148.0,not out,0.6,extreme sixes
+127,2011,2011-05-24,Qualifier,SK Raina,73,50,4,6,146.0,not out,0.47,extreme sixes
+139,2012,2012-04-09,League,RG Sharma,73,50,4,5,146.0,not out,0.47,extreme sixes
+267,2013,2013-05-14,League,CH Gayle,77,53,4,6,145.28,bowled,0.43,extreme sixes
+297,2014,2014-04-27,League,DR Smith,66,46,4,5,143.47,caught,0.3,extreme sixes
+10,2009,2009-04-24,League,RS Bopara,84,59,4,5,142.37,caught,0.22,extreme sixes
+626,2019,2019-04-29,League,KL Rahul,79,56,4,5,141.07,caught,0.13,extreme sixes
+631,2019,2019-05-04,League,RR Pant,53,38,2,5,139.47,not out,0.11,extreme sixes
+280,2013,2013-05-26,Final,MS Dhoni,63,45,3,5,140.0,not out,0.1,extreme sixes
+183,2012,2012-05-10,League,NV Ojha,64,46,2,5,139.13,not out,0.04,extreme sixes
+199,2012,2012-05-20,League,JP Duminy,74,53,4,5,139.62,caught,0.04,extreme sixes
+237,2013,2013-04-24,League,DR Smith,62,45,3,5,137.77,caught,-0.03,extreme sixes
+182,2012,2012-05-09,League,CH Gayle,82,59,5,6,138.98,not out,-0.04,extreme sixes
+60,2011,2011-04-09,League,AB de Villiers,54,40,1,5,135.0,not out,-0.14,extreme sixes
+522,2018,2018-04-09,League,S Dhawan,78,57,13,1,136.84,not out,-0.19,extreme fours
+28,2009,2009-05-05,League,NV Ojha,68,51,5,5,133.33,caught,-0.37,extreme sixes
+396,2015,2015-05-19,Qualifier,LMP Simmons,65,51,3,5,127.45,caught,-0.76,extreme sixes
+327,2014,2014-05-20,League,SK Raina,65,52,3,5,125.0,caught,-0.95,extreme sixes
+25,2009,2009-05-03,League,BB McCullum,19,31,1,0,61.29,caught,-3.01,far below usual pace
+714,2008,2008-04-29,League,RT Ponting,19,31,1,0,61.29,run out,-3.01,far below usual pace
+42,2009,2009-05-14,League,LRPL Taylor,46,50,2,1,92.0,caught,-3.04,far below usual pace
+322,2014,2014-05-18,League,CH Gayle,46,50,3,3,92.0,bowled,-3.04,far below usual pace
+61,2011,2011-04-10,League,SR Tendulkar,46,50,3,1,92.0,not out,-3.04,far below usual pace
+48,2009,2009-05-17,League,TM Dilshan,33,41,1,0,80.48,bowled,-3.05,far below usual pace
+46,2009,2009-05-16,League,SC Ganguly,33,41,3,0,80.48,caught,-3.05,far below usual pace
+684,2010,2010-04-12,League,JH Kallis,27,37,1,0,72.97,caught,-3.09,far below usual pace
+13,2009,2009-04-26,League,RA Jadeja,37,44,2,0,84.09,bowled,-3.09,far below usual pace
+654,2010,2010-03-21,League,PA Patel,57,58,4,2,98.27,stumped,-3.11,far below usual pace
+222,2013,2013-04-14,League,AM Rahane,34,42,3,0,80.95,not out,-3.11,far below usual pace
+44,2009,2009-05-15,League,Yuvraj Singh,18,31,1,0,58.06,caught,-3.14,far below usual pace
+207,2013,2013-04-05,League,MK Pandey,15,29,0,0,51.72,caught,-3.15,far below usual pace
+168,2012,2012-04-29,League,RG Sharma,42,48,4,1,87.5,caught,-3.19,far below usual pace
+184,2012,2012-05-10,League,MEK Hussey,19,32,2,0,59.37,run out,-3.19,far below usual pace
+697,2010,2010-04-24,Third-place play-off,JH Kallis,19,32,3,0,59.37,caught,-3.19,far below usual pace
+47,2009,2009-05-17,League,HH Gibbs,26,37,3,0,70.27,caught,-3.22,far below usual pace
+78,2011,2011-04-20,League,MK Tiwary,46,51,2,2,90.19,stumped,-3.23,far below usual pace
+88,2011,2011-04-27,League,RA Jadeja,23,35,2,0,65.71,caught,-3.23,far below usual pace
+634,2019,2019-05-05,League,RV Uthappa,40,47,1,3,85.1,caught,-3.26,far below usual pace
+698,2010,2010-04-25,Final,ML Hayden,17,31,1,1,54.83,caught,-3.27,far below usual pace
+85,2011,2011-04-25,League,Yuvraj Singh,34,43,2,0,79.06,caught,-3.3,far below usual pace
+722,2008,2008-05-04,League,GC Smith,35,44,4,0,79.54,not out,-3.35,far below usual pace
+133,2012,2012-04-06,League,JEC Franklin,32,42,1,0,76.19,caught,-3.37,far below usual pace
+702,2008,2008-04-20,League,SC Ganguly,14,30,1,0,46.66,bowled,-3.47,far below usual pace
+257,2013,2013-05-07,League,DR Smith,47,53,7,0,88.67,caught,-3.47,far below usual pace
+18,2009,2009-04-29,League,JP Duminy,59,63,4,0,93.65,caught,-3.78,far below usual pace
+579,2019,2019-03-23,League,AT Rayudu,28,42,2,1,66.66,bowled,-3.89,far below usual pace
+230,2013,2013-04-20,League,MEK Hussey,40,51,2,1,78.43,caught,-4.01,far below usual pace
+682,2010,2010-04-11,League,KD Karthik,17,35,1,0,48.57,caught,-4.01,far below usual pace

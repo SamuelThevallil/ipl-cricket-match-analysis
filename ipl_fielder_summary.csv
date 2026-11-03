@@ -1,0 +1,501 @@
+fielder,catches_fielder,catches_keeper,stumpings,run_outs,keeper_dismissals,total_involved,name_shared_by,ambiguous,is_keeper
+Dhoni,4,94,38,51,132,187,1,False,True
+Patel,62,63,16,39,79,180,5,True,True
+Karthik,8,101,30,40,131,179,2,False,True
+Uthappa,26,58,32,45,90,161,1,False,True
+Sharma,120,0,0,17,0,137,11,True,False
+de Villiers,84,9,7,21,16,121,1,False,False
+Raina,102,0,0,16,0,118,1,False,False
+Ojha,14,65,10,28,75,117,2,False,True
+Smith,90,0,0,12,0,102,3,True,False
+Pathan,76,0,0,20,0,96,3,True,False
+Pollard,82,0,0,13,0,95,1,False,False
+Saha,4,55,19,15,74,93,1,False,True
+Kohli,74,0,0,18,0,92,2,False,False
+Bravo,74,0,0,15,0,89,2,False,False
+Jadeja,63,0,0,24,0,87,1,False,False
+Gilchrist,0,51,16,20,67,87,1,False,True
+Pandey,68,0,0,14,0,82,2,False,False
+Dhawan,74,0,0,8,0,82,2,False,False
+Tiwary,67,0,0,8,0,75,2,False,False
+Rayudu,40,13,2,15,15,70,1,False,False
+Sangakkara,11,34,9,11,43,65,1,False,True
+Rahane,54,0,0,9,0,63,1,False,False
+Warner,54,0,0,8,0,62,1,False,False
+Samson,19,24,4,14,28,61,1,False,True
+Harbhajan Singh,48,0,0,11,0,59,1,False,False
+McCullum,27,11,6,14,17,58,2,False,False
+Hussey,51,0,0,6,0,57,2,False,False
+Yadav,46,0,0,9,0,55,5,True,False
+Miller,49,0,0,4,0,53,1,False,False
+Pant,3,30,11,7,41,51,1,False,True
+Chawla,40,0,0,10,0,50,1,False,False
+Watson,38,0,0,11,0,49,1,False,False
+de Kock,3,28,8,10,36,49,1,False,True
+Vijay,47,0,0,1,0,48,1,False,False
+Vinay Kumar,35,0,0,13,0,48,1,False,False
+Singh,38,0,0,9,0,47,20,True,False
+du Plessis,42,0,0,5,0,47,1,False,False
+Kumar,34,0,0,12,0,46,4,True,False
+Rahul,7,22,5,9,27,43,1,False,True
+Sehwag,34,0,0,8,0,42,1,False,False
+HH Pandya,36,0,0,6,0,42,1,False,False
+Jadhav,11,16,7,7,23,41,1,False,True
+Ashwin,28,0,0,13,0,41,2,False,False
+Yuvraj Singh,31,0,0,10,0,41,1,False,False
+Jayawardene,32,0,0,8,0,40,1,False,False
+Morkel,30,0,0,10,0,40,2,False,False
+Mandeep Singh,35,0,0,3,0,38,1,False,False
+Kallis,31,0,0,6,0,37,1,False,False
+Marsh,33,0,0,4,0,37,2,False,False
+Bisla,3,17,7,10,24,37,1,False,True
+Gambhir,28,0,0,8,0,36,1,False,False
+Goswami,1,15,7,11,22,34,1,False,True
+Bhatia,25,0,0,9,0,34,1,False,False
+Duminy,30,0,0,4,0,34,1,False,False
+Agarwal,30,0,0,3,0,33,1,False,False
+Maxwell,26,0,0,6,0,32,1,False,False
+Buttler,8,17,1,5,18,31,1,False,False
+Morris,27,0,0,4,0,31,1,False,False
+Khan,23,0,0,8,0,31,6,True,False
+Mishra,21,0,0,9,0,30,2,False,False
+Morgan,24,0,0,5,0,29,1,False,False
+Henriques,27,0,0,1,0,28,1,False,False
+Steyn,24,0,0,4,0,28,1,False,False
+Unadkat,22,0,0,5,0,27,1,False,False
+Malinga,21,0,0,6,0,27,1,False,False
+Iyer,22,0,0,5,0,27,1,False,False
+Hodge,22,0,0,5,0,27,1,False,False
+Nair,21,0,0,6,0,27,1,False,False
+Finch,24,0,0,3,0,27,1,False,False
+Gibbs,22,0,0,5,0,27,1,False,False
+Rawat,0,16,2,9,18,27,1,False,False
+Dravid,18,0,0,8,0,26,1,False,False
+Hooda,22,0,0,4,0,26,1,False,False
+White,22,0,0,4,0,26,1,False,False
+Tendulkar,23,0,0,3,0,26,1,False,False
+Binny,19,0,0,6,0,25,1,False,False
+Shukla,17,0,0,8,0,25,2,False,False
+Gayle,25,0,0,0,0,25,1,False,False
+Jakati,21,0,0,4,0,25,1,False,False
+Shah,9,8,3,4,11,24,2,False,False
+Faulkner,16,0,0,8,0,24,1,False,False
+Boucher,0,14,3,7,17,24,1,False,False
+Kulkarni,22,0,0,2,0,24,1,False,False
+Christian,19,0,0,4,0,23,1,False,False
+Shankar,17,0,0,6,0,23,1,False,False
+Russell,21,0,0,2,0,23,1,False,False
+Kartik,20,0,0,3,0,23,1,False,False
+Yagnik,0,12,5,6,17,23,1,False,False
+Dilshan,20,0,0,3,0,23,1,False,False
+Manhas,20,0,0,3,0,23,1,False,False
+Ganguly,22,0,0,1,0,23,1,False,False
+Harris,22,0,0,0,0,22,2,False,False
+Chahal,19,0,0,3,0,22,1,False,False
+Takawale,1,12,4,5,16,22,1,False,False
+Symonds,21,0,0,1,0,22,1,False,False
+Mathews,19,0,0,3,0,22,1,False,False
+Botha,18,0,0,3,0,21,1,False,False
+Narine,17,0,0,4,0,21,1,False,False
+Nehra,19,0,0,2,0,21,1,False,False
+Southee,17,0,0,4,0,21,1,False,False
+Badrinath,16,0,0,5,0,21,1,False,False
+Rashid Khan,15,0,0,6,0,21,1,False,False
+SA Yadav,18,0,0,2,0,20,1,False,False
+Negi,15,0,0,5,0,20,1,False,False
+Ishan Kishan,6,9,2,3,11,20,1,False,False
+KH Pandya,17,0,0,3,0,20,1,False,False
+Boult,14,0,0,5,0,19,1,False,False
+Taylor,18,0,0,1,0,19,2,False,False
+Williamson,16,0,0,3,0,19,1,False,False
+Warne,16,0,0,3,0,19,1,False,False
+Saini,5,9,2,3,11,19,2,False,False
+Nadeem,14,0,0,5,0,19,1,False,False
+Iqbal Abdulla,14,0,0,5,0,19,1,False,False
+Johnson,15,0,0,4,0,19,1,False,False
+Sandeep Sharma,11,0,0,7,0,18,1,False,False
+Perera,12,0,0,6,0,18,2,False,False
+Trivedi,14,0,0,4,0,18,1,False,False
+Muralitharan,15,0,0,3,0,18,1,False,False
+Starc,16,0,0,1,0,17,1,False,False
+Thakur,13,0,0,4,0,17,1,False,False
+Bailey,11,0,0,6,0,17,1,False,False
+Arun Karthik,0,11,2,4,13,17,1,False,False
+Shakib Al Hasan,12,0,0,5,0,17,1,False,False
+Stokes,14,0,0,2,0,16,1,False,False
+Venugopal Rao,13,0,0,3,0,16,1,False,False
+Lee,10,0,0,6,0,16,1,False,False
+Gurkeerat Singh,14,0,1,1,1,16,1,False,False
+Mohammed Shami,8,0,0,8,0,16,1,False,False
+Kaif,15,0,0,1,0,16,1,False,False
+Cooper,12,0,0,4,0,16,1,False,False
+Vettori,11,0,0,4,0,15,1,False,False
+Nayar,13,0,0,2,0,15,1,False,False
+Kuldeep Yadav,11,0,0,4,0,15,1,False,False
+Balaji,11,0,0,4,0,15,1,False,False
+Suman,10,0,0,5,0,15,1,False,False
+Billings,12,1,0,1,1,14,1,False,False
+Hayden,11,0,0,3,0,14,1,False,False
+Pietersen,12,0,0,2,0,14,1,False,False
+Jhunjhunwala,10,0,0,4,0,14,1,False,False
+Vohra,13,0,0,1,0,14,1,False,False
+Bumrah,9,0,0,4,0,13,1,False,False
+Anirudha,11,0,0,2,0,13,1,False,False
+Kaul,7,2,0,4,2,13,2,False,False
+Cutting,10,0,0,3,0,13,1,False,False
+Rana,12,0,0,1,0,13,2,False,False
+Rabada,6,0,0,7,0,13,1,False,False
+Imran Tahir,13,0,0,0,0,13,1,False,False
+Sammy,9,0,0,4,0,13,1,False,False
+Ravi Teja,11,0,0,2,0,13,1,False,False
+Bairstow,0,9,2,2,11,13,1,False,False
+Sathish,6,0,0,6,0,12,1,False,False
+Anderson,11,0,0,1,0,12,1,False,False
+Dinda,7,0,0,5,0,12,1,False,False
+Tripathi,12,0,0,0,0,12,1,False,False
+Shubman Gill,10,0,0,1,0,11,1,False,False
+Simmons,10,0,0,1,0,11,1,False,False
+ten Doeschate,8,0,0,3,0,11,1,False,False
+Ashish Reddy,9,0,0,2,0,11,1,False,False
+Nannes,9,0,0,2,0,11,1,False,False
+Pandya,9,0,0,2,0,11,2,False,False
+Gowtham,10,0,0,1,0,11,1,False,False
+Kamran Akmal,0,5,4,2,9,11,1,False,False
+Bipul Sharma,7,0,0,3,0,10,1,False,False
+van der Merwe,8,0,0,2,0,10,1,False,False
+UT Yadav,10,0,0,0,0,10,1,False,False
+Bollinger,8,0,0,2,0,10,1,False,False
+Nagar,6,0,0,4,0,10,1,False,False
+Ryder,10,0,0,0,0,10,1,False,False
+Goel,9,0,0,1,0,10,1,False,False
+Coulter-Nile,8,0,0,2,0,10,1,False,False
+Oram,8,0,0,2,0,10,1,False,False
+Kumble,10,0,0,0,0,10,1,False,False
+Lynn,10,0,0,0,0,10,1,False,False
+Suchith,8,0,0,1,0,9,1,False,False
+Das,7,0,0,2,0,9,2,False,False
+Sangwan,6,0,0,3,0,9,1,False,False
+Aravind,8,0,0,1,0,9,1,False,False
+Azhar Mahmood,8,0,0,1,0,9,1,False,False
+Gopal,9,0,0,0,0,9,1,False,False
+Gautam,0,3,4,2,7,9,1,False,False
+Jayasuriya,4,0,0,5,0,9,1,False,False
+RG Sharma,9,0,0,0,0,9,1,False,False
+Raut,9,0,0,0,0,9,1,False,False
+Tewatia,8,0,0,1,0,9,1,False,False
+Gony,6,0,0,2,0,8,1,False,False
+KV Sharma,8,0,0,0,0,8,1,False,False
+Harmeet Singh,5,0,0,3,0,8,1,False,False
+Tye,7,0,0,1,0,8,1,False,False
+Vihari,6,0,0,2,0,8,1,False,False
+Mohammed Siraj,8,0,0,0,0,8,1,False,False
+Mithun,7,0,0,1,0,8,1,False,False
+Sachin Baby,5,0,0,3,0,8,1,False,False
+Chahar,8,0,0,0,0,8,2,False,False
+Woakes,7,0,0,1,0,8,1,False,False
+Chand,8,0,0,0,0,8,1,False,False
+Stoinis,7,0,0,1,0,8,1,False,False
+Agarkar,5,0,0,3,0,8,1,False,False
+Tare,1,2,5,0,7,8,1,False,False
+Bopara,7,0,0,0,0,7,1,False,False
+van Wyk,0,7,0,0,7,7,1,False,False
+Sohail Tanvir,4,0,0,3,0,7,1,False,False
+Mohammad Nabi,6,0,0,1,0,7,1,False,False
+Guptill,7,0,0,0,0,7,1,False,False
+Asnodkar,6,0,0,1,0,7,1,False,False
+Tait,6,0,0,1,0,7,1,False,False
+I Sharma,5,0,0,2,0,7,1,False,False
+Brathwaite,5,0,0,2,0,7,1,False,False
+de Grandhomme,6,0,0,1,0,7,1,False,False
+Lewis,6,0,0,1,0,7,1,False,False
+Washington Sundar,7,0,0,0,0,7,1,False,False
+Srivastava,5,0,0,2,0,7,2,False,False
+Shoaib Malik,7,0,0,0,0,7,1,False,False
+Klaasen,1,2,4,0,6,7,1,False,False
+Shaw,6,0,0,1,0,7,1,False,False
+Chandila,7,0,0,0,0,7,1,False,False
+Joginder Sharma,5,0,0,2,0,7,1,False,False
+Pomersbach,7,0,0,0,0,7,1,False,False
+Fazal,6,0,0,1,0,7,1,False,False
+Jacobs,1,2,2,2,4,7,1,False,False
+Sran,4,0,0,2,0,6,1,False,False
+Shivam Mavi,4,0,0,2,0,6,1,False,False
+Wiese,6,0,0,0,0,6,1,False,False
+DR Shorey,6,0,0,0,0,6,1,False,False
+Ali,3,0,0,3,0,6,1,False,False
+Anureet Singh,5,0,0,1,0,6,1,False,False
+Aaron,3,0,0,3,0,6,1,False,False
+Hopes,6,0,0,0,0,6,1,False,False
+Mahesh,6,0,0,0,0,6,1,False,False
+Rajpoot,4,0,0,2,0,6,1,False,False
+Ronchi,1,3,0,2,3,6,1,False,False
+Richardson,5,0,0,1,0,6,1,False,False
+Maharoof,4,0,0,2,0,6,1,False,False
+Kamran Khan,4,0,0,2,0,6,1,False,False
+McLaren,5,0,0,1,0,6,1,False,False
+Parnell,5,0,0,1,0,6,1,False,False
+Mota,5,0,0,1,0,6,1,False,False
+Pujara,6,0,0,0,0,6,1,False,False
+Franklin,6,0,0,0,0,6,1,False,False
+Laxman,4,0,0,1,0,5,1,False,False
+Kulasekara,4,0,0,1,0,5,1,False,False
+Basil Thampi,4,0,0,1,0,5,1,False,False
+Lumb,5,0,0,0,0,5,1,False,False
+Rutherford,5,0,0,0,0,5,1,False,False
+Roy,5,0,0,0,0,5,1,False,False
+Rohrer,3,0,0,2,0,5,1,False,False
+Mendis,4,0,0,1,0,5,2,False,False
+Menaria,5,0,0,0,0,5,1,False,False
+Parag,5,0,0,0,0,5,1,False,False
+Powar,5,0,0,0,0,5,1,False,False
+R Ashwin,4,0,0,1,0,5,1,False,False
+Dogra,4,0,0,1,0,5,1,False,False
+Jaffer,4,0,0,1,0,5,1,False,False
+NK Patel,5,0,0,0,0,5,1,False,False
+Paul,5,0,0,0,0,5,1,False,False
+Holder,5,0,0,0,0,5,1,False,False
+Thomas,4,0,0,1,0,5,1,False,False
+Milne,5,0,0,0,0,5,1,False,False
+Hogg,4,0,0,1,0,5,1,False,False
+B Kumar,4,0,0,1,0,5,1,False,False
+Archer,4,0,0,1,0,5,1,False,False
+Awana,4,0,0,1,0,5,1,False,False
+Anand Rajan,3,0,0,2,0,5,0,False,False
+Ahmed,2,0,0,3,0,5,3,True,False
+Akhil,3,0,0,1,0,4,1,False,False
+Appanna,1,0,0,3,0,4,1,False,False
+Avesh Khan,4,0,0,0,0,4,1,False,False
+Ankit Sharma,4,0,0,0,0,4,1,False,False
+Voges,1,0,0,3,0,4,1,False,False
+Theron,1,0,0,3,0,4,1,False,False
+Tambe,4,0,0,0,0,4,1,False,False
+V Shankar,4,0,0,0,0,4,1,False,False
+Thushara,3,0,0,1,0,4,1,False,False
+T Kohli,4,0,0,0,0,4,1,False,False
+Mustafizur Rahman,4,0,0,0,0,4,1,False,False
+Munro,4,0,0,0,0,4,1,False,False
+Hetmyer,3,0,0,1,0,4,1,False,False
+PA Patel,0,3,0,1,3,4,1,False,False
+Ponting,4,0,0,0,0,4,1,False,False
+Geeves,3,0,0,1,0,4,0,False,False
+Flintoff,4,0,0,0,0,4,1,False,False
+Murtaza,3,0,0,1,0,4,1,False,False
+Fernando,3,0,0,1,0,4,1,False,False
+Shahid Afridi,4,0,0,0,0,4,1,False,False
+Scantlebury-Searles,4,0,0,0,0,4,1,False,False
+Samantray,3,0,0,1,0,4,1,False,False
+Collingwood,4,0,0,0,0,4,1,False,False
+Rampaul,4,0,0,0,0,4,1,False,False
+Blizzard,4,0,0,0,0,4,1,False,False
+Bangar,2,0,0,2,0,4,1,False,False
+Sumanth,4,0,0,0,0,4,1,False,False
+Styris,2,0,0,2,0,4,1,False,False
+Silva,3,0,0,1,0,4,1,False,False
+Curran,3,0,0,1,0,4,2,False,False
+DA Miller,4,0,0,0,0,4,1,False,False
+Wright,2,0,0,2,0,4,1,False,False
+Shoaib Ahmed,4,0,0,0,0,4,1,False,False
+Livingstone,4,0,0,0,0,4,1,False,False
+Carseldine,4,0,0,0,0,4,1,False,False
+Jordan,4,0,0,0,0,4,1,False,False
+Gomez,3,0,0,1,0,4,1,False,False
+Kapugedera,4,0,0,0,0,4,1,False,False
+Katich,2,0,0,2,0,4,1,False,False
+Raje,3,0,0,1,0,4,1,False,False
+Head,3,0,0,0,0,3,1,False,False
+Valthaty,3,0,0,0,0,3,1,False,False
+Hendricks,3,0,0,0,0,3,1,False,False
+Naik,0,2,0,1,2,3,1,False,False
+Mukund,3,0,0,0,0,3,1,False,False
+R Tewatia,3,0,0,0,0,3,1,False,False
+Jackson,0,2,0,1,2,3,1,False,False
+Karanveer Singh,2,0,0,1,0,3,1,False,False
+KK Nair,3,0,0,0,0,3,1,False,False
+Mascarenhas,3,0,0,0,0,3,1,False,False
+Randiv,2,0,0,1,0,3,1,False,False
+Reddy,2,0,0,1,0,3,2,False,False
+Chavan,3,0,0,0,0,3,1,False,False
+Markande,3,0,0,0,0,3,1,False,False
+Chopra,2,0,0,1,0,3,2,False,False
+Chipli,3,0,0,0,0,3,1,False,False
+Mujeeb Ur Rahman,2,0,0,1,0,3,1,False,False
+Ntini,1,0,0,2,0,3,1,False,False
+Pollock,2,0,0,1,0,3,1,False,False
+Parvez Rasool,3,0,0,0,0,3,1,False,False
+P Kumar,3,0,0,0,0,3,1,False,False
+J Yadav,3,0,0,0,0,3,1,False,False
+Prasidh Krishna,3,0,0,0,0,3,1,False,False
+Dunk,3,0,0,0,0,3,1,False,False
+Ferguson,2,0,0,1,0,3,2,False,False
+R Sathish,3,0,0,0,0,3,1,False,False
+Sreesanth,3,0,0,0,0,3,1,False,False
+MM Patel,2,0,0,1,0,3,1,False,False
+Syed Mohammad,1,0,0,2,0,3,1,False,False
+Cummins,2,0,0,1,0,3,1,False,False
+Cariappa,3,0,0,0,0,3,1,False,False
+Lamichhane,2,0,0,1,0,3,1,False,False
+M Ashwin,3,0,0,0,0,3,1,False,False
+Ladda,1,0,0,2,0,3,1,False,False
+Willey,2,0,0,1,0,3,0,False,False
+DJ Harris,3,0,0,0,0,3,1,False,False
+Yashpal Singh,3,0,0,0,0,3,1,False,False
+Thornely,3,0,0,0,0,3,1,False,False
+Tyagi,3,0,0,0,0,3,1,False,False
+Anirudh Singh,3,0,0,0,0,3,1,False,False
+Fleming,2,0,0,0,0,2,1,False,False
+R Sharma,1,0,0,1,0,2,1,False,False
+Dwivedi,2,0,0,0,0,2,1,False,False
+Dole,2,0,0,0,0,2,1,False,False
+R Dhawan,2,0,0,0,0,2,1,False,False
+Pooran,0,1,0,1,1,2,1,False,False
+Plunkett,2,0,0,0,0,2,1,False,False
+Harwood,2,0,0,0,0,2,1,False,False
+Mohammad Hafeez,1,0,0,1,0,2,1,False,False
+Hales,2,0,0,0,0,2,1,False,False
+Mohammad Ashraful,2,0,0,0,0,2,1,False,False
+Harpreet Singh,2,0,0,0,0,2,1,False,False
+Rossouw,2,0,0,0,0,2,1,False,False
+AB de Villiers,2,0,0,0,0,2,1,False,False
+Sohal,2,0,0,0,0,2,1,False,False
+AM Rahane,2,0,0,0,0,2,1,False,False
+Bracewell,1,0,0,1,0,2,1,False,False
+Salman Butt,2,0,0,0,0,2,1,False,False
+Paunikar,0,1,0,1,1,2,1,False,False
+Patil,0,2,0,0,2,2,1,False,False
+Pankaj Singh,2,0,0,0,0,2,1,False,False
+Hilfenhaus,1,0,0,1,0,2,1,False,False
+Wagh,1,0,0,1,0,2,1,False,False
+Vishnu Vinod,0,0,2,0,2,2,1,False,False
+Abhishek Sharma,2,0,0,0,0,2,1,False,False
+Amarnath,2,0,0,0,0,2,0,False,False
+Narwal,1,0,0,1,0,2,1,False,False
+J Suchith,2,0,0,0,0,2,1,False,False
+Nath,2,0,0,0,0,2,1,False,False
+Levi,2,0,0,0,0,2,1,False,False
+MC Henriques,2,0,0,0,0,2,1,False,False
+Sodhi,2,0,0,0,0,2,2,False,False
+LR Shukla,2,0,0,0,0,2,1,False,False
+Y Nagar,2,0,0,0,0,2,1,False,False
+Short,2,0,0,0,0,2,1,False,False
+DJ Hooda,2,0,0,0,0,2,1,False,False
+Badree,2,0,0,0,0,2,1,False,False
+DA Warner,2,0,0,0,0,2,1,False,False
+McGrath,2,0,0,0,0,2,1,False,False
+KP Appanna,2,0,0,0,0,2,1,False,False
+McClenaghan,1,0,0,1,0,2,1,False,False
+Malik,2,0,0,0,0,2,2,False,False
+JP Duminy,2,0,0,0,0,2,1,False,False
+Gnaneswara Rao,2,0,0,0,0,2,1,False,False
+Jaggi,2,0,0,0,0,2,1,False,False
+RK Singh,2,0,0,0,0,2,1,False,False
+Senanayake,2,0,0,0,0,2,1,False,False
+Chitnis,2,0,0,0,0,2,1,False,False
+Shaikh,0,2,0,0,2,2,1,False,False
+Samuels,2,0,0,0,0,2,1,False,False
+Salvi,2,0,0,0,0,2,0,False,False
+Salunkhe,2,0,0,0,0,2,1,False,False
+SS Tiwary,2,0,0,0,0,2,1,False,False
+H Klaasen,1,0,0,0,0,1,1,False,False
+P Dogra,1,0,0,0,0,1,1,False,False
+Midhun,1,0,0,0,0,1,0,False,False
+Ingram,1,0,0,0,0,1,1,False,False
+NLTC Perera,1,0,0,0,0,1,1,False,False
+Ngidi,1,0,0,0,0,1,0,False,False
+Ninan,1,0,0,0,0,1,1,False,False
+P Chopra,1,0,0,0,0,1,1,False,False
+UBT Chand,1,0,0,0,0,1,1,False,False
+TM Dilshan,1,0,0,0,0,1,1,False,False
+Upadhyay,1,0,0,0,0,1,1,False,False
+Umar Gul,0,0,0,1,0,1,1,False,False
+Vaas,0,0,0,1,0,1,1,False,False
+AV Wankhade,1,0,0,0,0,1,0,False,False
+AS Raut,1,0,0,0,0,1,1,False,False
+Anmolpreet Singh,1,0,0,0,0,1,0,False,False
+B Chipli,1,0,0,0,0,1,1,False,False
+B Aparajith,1,0,0,0,0,1,0,False,False
+Ankit Soni,1,0,0,0,0,1,1,False,False
+WP Saha,1,0,0,0,0,1,1,False,False
+T Mishra,1,0,0,0,0,1,0,False,False
+Taibu,1,0,0,0,0,1,1,False,False
+Vidyut,1,0,0,0,0,1,1,False,False
+WD Parnell,1,0,0,0,0,1,1,False,False
+AP Tare,0,0,1,0,1,1,1,False,False
+Mills,1,0,0,0,0,1,1,False,False
+Mohammad Asif,1,0,0,0,0,1,1,False,False
+Milind Kumar,1,0,0,0,0,1,0,False,False
+Misbah-ul-Haq,1,0,0,0,0,1,1,False,False
+More,1,0,0,0,0,1,1,False,False
+sub [Dagar],0,0,0,1,0,1,0,False,False
+sub [Fazal],0,0,0,1,0,1,0,False,False
+sub [Jordan],0,0,0,1,0,1,0,False,False
+sub [McCullum],0,0,0,1,0,1,0,False,False
+sub [Mukund],0,0,0,1,0,1,0,False,False
+sub [Negi],0,0,0,1,0,1,0,False,False
+sub [Raut],0,0,0,1,0,1,0,False,False
+sub [Sathish],0,0,0,1,0,1,0,False,False
+sub [Shankar],0,0,0,1,0,1,0,False,False
+sub [Shoaib Malik],0,0,0,1,0,1,0,False,False
+GJ Bailey,1,0,0,0,0,1,1,False,False
+F du Plessis,1,0,0,0,0,1,1,False,False
+FY Fazal,1,0,0,0,0,1,1,False,False
+Dube,1,0,0,0,0,1,1,False,False
+R Powell,1,0,0,0,0,1,0,False,False
+PJ Sangwan,1,0,0,0,0,1,1,False,False
+Peterson,1,0,0,0,0,1,1,False,False
+Quiney,1,0,0,0,0,1,1,False,False
+Parameswaran,1,0,0,0,0,1,1,False,False
+Clarke,1,0,0,0,0,1,1,False,False
+CJ Jordan,1,0,0,0,0,1,1,False,False
+Shamsi,1,0,0,0,0,1,0,False,False
+Sandeep Warrier,1,0,0,0,0,1,0,False,False
+Santner,1,0,0,0,0,1,1,False,False
+Santokie,1,0,0,0,0,1,0,False,False
+CR Brathwaite,1,0,0,0,0,1,1,False,False
+KB Arun Karthik,1,0,0,0,0,1,1,False,False
+Joseph,1,0,0,0,0,1,1,False,False
+Maddinson,1,0,0,0,0,1,1,False,False
+Madan,0,0,0,1,0,1,1,False,False
+R Vinay Kumar,1,0,0,0,0,1,1,False,False
+RA Jadeja,1,0,0,0,0,1,1,False,False
+RD Chahar,1,0,0,0,0,1,1,False,False
+Sarwan,1,0,0,0,0,1,1,False,False
+Rasikh Salam,1,0,0,0,0,1,1,False,False
+S Dhawan,1,0,0,0,0,1,1,False,False
+Roach,1,0,0,0,0,1,1,False,False
+Ghosh,1,0,0,0,0,1,1,False,False
+Kemp,1,0,0,0,0,1,1,False,False
+Kalyankrishna,1,0,0,0,0,1,1,False,False
+Mashrafe Mortaza,0,0,0,1,0,1,1,False,False
+RR Rossouw,1,0,0,0,0,1,1,False,False
+MK Tiwary,1,0,0,0,0,1,1,False,False
+MK Pandey,1,0,0,0,0,1,1,False,False
+MA Agarwal,1,0,0,0,0,1,1,False,False
+M Kaif,1,0,0,0,0,1,1,False,False
+Lomror,1,0,0,0,0,1,1,False,False
+Khawaja,1,0,0,0,0,1,1,False,False
+Zoysa,1,0,0,0,0,1,1,False,False
+Laughlin,1,0,0,0,0,1,1,False,False
+LA Pomersbach,1,0,0,0,0,1,1,False,False
+Devdhar,0,0,1,0,1,1,0,False,False
+Wood,1,0,0,0,0,1,1,False,False
+DT Christian,1,0,0,0,0,1,1,False,False
+Shivam Sharma,1,0,0,0,0,1,1,False,False
+Younis Khan,1,0,0,0,0,1,1,False,False
+Stanlake,1,0,0,0,0,1,1,False,False
+Simran Singh,0,1,0,0,1,1,1,False,False
+BR Dunk,1,0,0,0,0,1,1,False,False
+BB McCullum,1,0,0,0,0,1,1,False,False
+Suyal,1,0,0,0,0,1,0,False,False
+Swapnil Singh,1,0,0,0,0,1,1,False,False
+Sunny Singh,1,0,0,0,0,1,1,False,False
+Bhatt,1,0,0,0,0,1,1,False,False
+Bhatkal,1,0,0,0,0,1,1,False,False
+Behardien,1,0,0,0,0,1,1,False,False
+Bishnoi,1,0,0,0,0,1,1,False,False
+Birla,1,0,0,0,0,1,1,False,False
+Bilakhia,1,0,0,0,0,1,1,False,False
+Bond,1,0,0,0,0,1,1,False,False
+sub [Suchith],0,0,0,1,0,1,0,False,False
+sub [Shukla],0,0,0,1,0,1,0,False,False
+sub [Warner],0,0,0,1,0,1,0,False,False
+AR Patel,1,0,0,0,0,1,1,False,False
